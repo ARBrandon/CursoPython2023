@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: JqrGxDSlI9OdVpvRN4A3gU6b7L3d0T1fjSJFk9MjabWCZLcLz3ofVAl3WVyd7Aa0hSFLDJqmgFXYNNc/tW6d20RRRLF1GwEAbpd51rUpeBHXwedtu2WZ33QpkHa9TNGCoQNTXGFcD/5nxgdyRE5VjTtOPiHvJTeqzKjEppCQQBJBwiZHRDtlcbs16GYTFgaj
+  encrypted_text: PXNohf98r8baGAWz0WMPaw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UegGLtumu25OpYTbir/oykT486mqRxn2apZcrVMkOxq2N24yIOvHxiwvKOoBo7ug9uPstOUyJdpM3yVkgLTwRLmKJOWYRLgxddi0KP4RF+ekmufbJhY95xOHZzjGGvhwnqMxoAdxoTbVXugrDUshfluUUR6fMoZ/AQn8ZCHEO3xQSCcR+HhbDr1PSRdQ2AOvUUrnLswLqid9qlTjVzoHG7zkaKIKinodnCJZ7nopIF2redL0N1H0SSjCvKLB4LDujq2IrcJQyju9IdzGwHg/j1PQSqQaHRcuuP01UJ6WZMlSkK77AutjgZhaq176sHfQB7zjkMcKAXN9xokOuoFmWzHlSDxHkjY/AO3uY1pDyD/v3aPTpxBScn2k5t9N0zy9FlOhZGOgMxM+DKoyUAE9RA6ZH6Fc57fV81DND+rkw5cKMdNwgzI45PypeOTTJznihqrMHexUuQ/fbT2Lp729N2gDXXrmqaedFs/u1THTqJXaHOLnPzLBlPouWJjJdEMfkSSNTxZS9hWJCBmEmAPQgeobs2ac7Sn+UvS1TsnkPCzha/tRo+XWZE4M90YP5X1eQ08NYZMpgWepR3f/2DVorx3QCrFeOxykOCqQqwlSRdULf0iLhiviKROhTlkr21U7ceVfGZ9zBos+/Ij8hbPbw2rzgRcuxmbozJ5DcgpMohRmG5cPJypmrxczgloL00jynoB6fwKLcmk/Ef7BPsB6vfDxpkuHju5UU+PuVS26aSGbg+IKStR8/X3MXBxuw3wWj/Ta05VY8mm4KSowqzAEWbtVIcJH00dMej/Zz+zrtQf3NqA6uqWHdbT0iyAICSPik/Qtbh8MnRfQkGf0ly5LT6Fq+ubiBsumwMf75ItG83bRS8z0uZwPOA7OpVIUqN4DJCSMAsf+FOR6F0MFQN1I10lGio8XAgEB3LB1/KXUnxRaIpnA/UMPPg5aMbsfBUz/fL1ey0SHFs7FV9mmh38i6H0tjWmpUYhIXZWAnlZ79pWXhDXJa+Z4ch7KFjmiwAX+Vl8dOebhJHi7Oc71J39CRA+wXRROauUD58h80ovmY2uIp+ApY93mSaOsTqPM3rHl6j/nAk6/zIxEE0U/T/JUdqDrKWZ+ueDGF8w5BHTqnWIYGXzNtmlAfRfJZq2RIdA3+fwZ1ZbDoU8wuAM1g8oXUICNkmd/avK3vEWSamcswtIKYO66K5u8qFKl1dzTtnZuC+
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 00:23:32 UTC"
+record: -1

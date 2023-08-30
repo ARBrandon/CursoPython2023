@@ -1,0 +1,35 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: HqlQC8RlnRXPK4Afq1v+RPtnTWN9hQTaRhzFhwztwWMtVimZlb26GJMSUR0pC9N6
+  encrypted_text: PXNohf98r8baGAWz0WMPaw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UegGLtumu25OpYTbir/oykT486mqRxn2apZcrVMkOxq2N24yIOvHxiwvKOoBo7ug9uPstOUyJdpM3yVkgLTwRLmOfEva2FpZwmnnEyYPdpkAbpwM+f00ofxOwsAok2tSGk3OT29vol6pnpiy9LeRjnUeV66VA2r5tvGPM3VzxRlJBKAmOjouUSnDjrLhgArqZAOvvxNCbTNbzYeQNYPzXR8UilIRLkafGLUWNofXpM7Z5UFKtDF/cOLHoTTp9XeIOAlSUVOYsnVVBEolMMOpyeuMxboPAwOZAOYFlHmeGyyycNSXTb5TGVWk5gH+R0nhIAb4l2PqqbWC08jytotScw2tdbeqTJFGHm70DOIFR8iqGOcttpN9uE1s3ei1rW34N6Y3RvHtKETlW08dD2Q049eXhS9buFV3YokUy8jtp6sD7oUbfn2tmDxb23LEZGTOsERuZTF/kmqYCVJw/udFtJ95E83PwrzQi9K2qGdS5onT3cBbBPBdd7HzpOhzyeVB3nRtFDc3gythkK25NCYZfG1V/YCTPRZJ60W1ox4MVekyrJzok6+XkVZ+FTZJoO33A+xSN2ND3zO4+MnsZeL6kd6qVJek5g6Zzjgwmji1Et9UszHdJGewgldqYs2VugxiFkIlwIFeHL4ymrj4dyW1JiKFSEckD+BeRy1vxSvYIHxIKszATRwAlNeSUmu9UElcWLsImb/j9XSBhDACYUXRCLXqibqm2YPfYgNwwHLhkkzFFNBPxU9BKUWuEE4XRfctsF1eYJf7LUCteOpym+xSlhKITry5yDQ2JTuMK05vY6Y5HS7pYfc7qskmGdyueQJMDvqR9ZQCCM9YOAGWomMrISAUEE+UgNuhAgndmoJ8JeOrI6j12tR1cl9HayYqp5h4/Q
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: Ejercicios
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: true
+status: Unchecked
+record: -1

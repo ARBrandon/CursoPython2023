@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 1H7nfJirvUhF3nZwkExoRY+BSx2cXopxMJj8YYTA4DdJzofBGSbb8yuebbq4HKdZQvFAkt/ZuP1NpgwcEJlQXuBWkQwdVioADAUusVTkoo0ZVwbERQx23aAMB6EQsmiCJgCH2aGtEuitjs+BC4GOid6YXTToR5MJvo5FBWj80/2s08aAJNicNfyP780nCKqR
+  encrypted_text: PXNohf98r8baGAWz0WMPaw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UegGLtumu25OpYTbir/oykT486mqRxn2apZcrVMkOxq2N24yIOvHxiwvKOoBo7ug9uPstOUyJdpM3yVkgLTwRLmBNByGoh1tV1nyyO9UPWY3W1sG64hOjlYHGA3EgCXdQb1YDFQi9KxinBGOWb+ynb65cMlkLaql0+A1TSwqV15FAy/ylPIAz/7aodvFEkTM84Dt3NBGgNkrdbjzR6iz+PsIPFYv1672A4TKhpVwWbhfJ9cm5MU+5MHRAU8TJ1ph7p07/Z+MLPYhTisrYYfPQAQlBo225l/ZParkBS6Wbr8fWMjMkSz+/n46q7yBc0g/S7mUK3ptTYnhP5ian2q1sp494LZhzyvTsTYm7SE1zUhkM6MkqWshVuKyjMrpgecWJNimv2hEiwzKVjWzDwQKUxQABBYbHLmP61vTF7I3dxmzGok4vnwtMDL2TJxJbfTF8IXXfUpTr4dMWPaJ2djT8ur8VGETfbXrigHxdiezs619JEqt+49JYny727axg/kjfM8MMvxqw5I9OptG87pyGpLoaTz0ZN0DtSKCf6Q4yggiNcyFc9cwyjGNkMjaAY5CwjSxc0l9GdZCZUi5xHu/reoa6vyc+T2rXTJ1lW74c7T6AY1MURlPaYDAKtzvMPPYRqDfYEmchFiRPUkT42gBnd6Ox0lTzSywCQsFVEhjse0sNcy86sPoewhlP9Yxz8Wpb+bdcGijJHFQUBZktLPDRol+9HORakZmdpEn4IoKmSWLbNZa9YEBkh73hLBMfrmhW1EOPhuFgdh2E13HfjLm4k2XFhG5EVfZzw4Mz7jZkJ+rbiV2LQky+UJtlJxmpOsQiXHJu/FHCTJsI8lQJTnAPdQPmYcG9PLvSwXakyYglpKvAyxuccmbGyhw8g+dSHajBrruDZK/0TKnhiLvt456NAZdpc5hj34XX3VzWFBtaAhC9q+T1gsCHhv/EfEQCyqFsPlR9/0mPXOwZkrq4RLHboFnTiVVNDMfQ5y0DCrcDNwnKnkqgKqG332gPBTakmTzkj
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 00:23:48 UTC"
+record: -1

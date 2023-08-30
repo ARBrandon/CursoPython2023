@@ -1,0 +1,41 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 354
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 354
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: laerqeimXg9jEfCdIiSLmns4O7F0NNK5cq2XBDI0d2PdAByfkafIqp4C+E2cVcYOu7M2W066LPl424d92D7inNkQVU8gUm9T0/IaX10IqCs=
+  - offset: 380
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 380
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OY3Nxv269dCWkOMhvqHbYJMmh3/uFUdz1yYLSRnTOTo=
+  encrypted_text: 4t2JMBWK5VYr+Gk6MvStboPwi9MbV5Dq4dePkZntWDJmYafCXTbfld758IW2KmeC2zom0RY6QrJiDhuHf07QwGoxo/011NZnLIxQwdrVi1Vn/uKosgNMCazo5sHseEw+yW6TXTMUpr5IRTUVGlCwebYljJIeGun0m6Z1QRpE2kq4QnjGOO3jkZPoGffXxN5N9FDvrRggKI/jeh03ooFsn4b5hqBEy1FOfwPR/11G4MUM+E0kbt33OxeB2YlMmVEU93NLSHsQsboWHQfEEgyQjd3Yh1gNQEzqThzSb0P9mYSZP+oTuBfQOQJbUN2sdEkQotZHLGp0aJ8jU03/U1aG6obXpsGb55FEsojD1Sz+Xg2/McbwpOi0bfrhlS1eHx9m9lugEsxN4LMlkBpGTOzv3PY7LsE/ebrLN3r4tJoVh1dxipUWnw/r+8cDrKkYXQWTtrki4+2JVq7qruCshkzVcFRT7AiUiFNs6n+DfVxOqPZeX4psxitnbLuRJt2DrSey4NEkvfB8GhxrmGuTrYAWIkQrWgt+K4qz1IG/w2fImrS2NM9me78WDLe3ga6q6jtqxxY+c7UW9Fk+PpyerQdfh/y10+2pThFDGCsSiz4LWOQX/zZ3E3kG+d38/gbcinoWnWZ0/O1B2XZAv97f1AKsm2M+qK842VTGQJckSatMMV6APg8FA8T8tWPuvO9n7ePKfun89TzPHPFUl7wtzNg0uxGxJO20R0pm7Ha+8/m+g5vK7HysSqpBGkV949tveHxbuW6jLD/H7siaWUnMzthDNw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: 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
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: jLA3O7KU0VQ/2nLYh4HlV/7dT8TK7u/KMtdAJOlDTh0=
+  encrypted_text: PXNohf98r8baGAWz0WMPaw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UegGLtumu25OpYTbir/oykT486mqRxn2apZcrVMkOxq2N24yIOvHxiwvKOoBo7ug9uPstOUyJdpM3yVkgLTwRLmOfEva2FpZwmnnEyYPdpkAbpwM+f00ofxOwsAok2tSGk3OT29vol6pnpiy9LeRjnUeV66VA2r5tvGPM3VzxRlJDk/YScjVrQ6sLoyJP5tEopQTGyILD1NOTac5GE0/csSadBz3eCXXn67H8KA8MF4QStvKrZA1AkchhqQJzasdCM7xZChDHKQoeQBa/JVgcbWq2Us6rhszn5j+8pMlOG/hjwF6+QcyY3IxOSCgZ/5dGRDoiUcSvu6PG9IR4Rlk+ieoPjgZ0qvTbBuF5GRYs4OmzfyjPp6j12hWb6+OL/XjM+L/4hGiWG7VoXm/7JcW++ghCdMTC5O3KfiFGWPyHh2YSCi8+irlNlgcwzZ5KESClYj//+ns4+heqNb/fYjq/Dan6+oOGBZHXEOfB+qyxSWqHq7aO9vki8A0hCvtsvXg51IXFtkiPRIXSTaO7nopX2M5IDSOKImfNW/wGBYa+NkZLbUEEoLDYjDF0HqaCl06vU1hM0uhej5IEwjrhZ/A6ijvYDMGcS3v11NSTnTjnx+/tlJqPvrziMyvz+ci+ug0EGvMaRbsaTVEWHfmAhCzVO+8QjGUMu9TT4ICOJC93cPLX8nJzxX32VJSclBhkH9H6fJyO572NC0M2Rj5h6874LIz3kax9Ae97nezAnJe553wmr4gqr8PQsHQGLQwYERkPI8njyHHuKErUYvK9JzVTKB0tbS492epgduE7Djgr83SCOU9Lr2dW0DyNljtT1yDvSmw/uf701BL8xidXK0qKHtM0kqgvq3QoRdV+7dp5iJOI=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 00:13:17 UTC"
+record: -1

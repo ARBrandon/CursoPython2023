@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: JKF9n300r7isDgE6iY+SixP2NSPJDNW84f2jzuXThkr01joANRvoPHU6NbA5B2usifRTXRf9g/WIIiVzaafzMvX2gCZ/lZZcipwzeCwFEwo/GtCP3ETgc7tfKNEg7rwxo94PobMr+GfDqKAMgOF4OQ==
+  encrypted_text: PXNohf98r8baGAWz0WMPaw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: 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
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 00:20:41 UTC"
+record: -1

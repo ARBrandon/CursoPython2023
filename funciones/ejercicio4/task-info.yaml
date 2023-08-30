@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 232
+    length: 32
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 232
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: t37zY51r5Cz27a1Qy0QyazKw/n90N7m4KRIkDG2cRj5vfeSNuTvpsH/F9hDPLtfV
+  encrypted_text: csTi5eT/q96exjPenTxgyN/j5MFaJ2ngSEQ7lRLwUYdENcllo39DpJegq+Iaw/1w29x9fpVoE3K1puZvC1IWLtk7yvTcef9l55idt8J9MH76f5JoqnQPhXfZZzpyAfsVxIPkPMVWkRQw/CPKUY2yFSkGZjfxEzI4oUZjh7+SVpRYI4al74HoCuM+4HtooQd1tJLXZMlPg9hxvwegq/FOspcs5ZuV/eEh+I68k+hDrzDDkhWdW73s7O+LnPJvmJ5tUyorOFowgboL77eDbE7pdRe5n4HRbZVjKLWJZ4vtri8O0fq8ekDGGWT2rRwen4QCAy3+8bs9e7U9ddDGIDhRcdKyY8Ps3IvUK8wcXIrwr/ZEmd22ghNSXkA50CgFZODehXBbFSePHgLLz6OIlISYfVnjdDLlVtP6qJ1dK+W9APDqi9ig55rKF/MnYMl7Jy949W0wWAh6nXnR+Pb10cF37Q==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UekbyjFgbDDXYdBjoP+rx6TEakoqaJWtxRZYtMzNUQdr/AIG3fSedhm+VW+3LSzFjh3Lj7sywAxiIdY/C82hF/qLc5Q+0yhSWBSoXYIC3Zj905K2DTRtcH2eAKIOx0N0iGRsgHe8P0Km55APCBz3CM+Ro7XYOMlP2B2lXh3T5eAJ8lLz2zwMAqcPYZqjUAb8lvxxiUc6Ey7PVpSdLZaNRZlyGW3iXZbaMK215ELHOuj70oqWiX7Q3Zj7nnZ+isbBUX0XoD/mM+8NS813pCI8CMVLSIwoor1BasmfA5wgJbXExMrrTLmlxTaFl1A1ylcCnesOJsZGCmOXOmxHitid5HuWeVQClfoUUWOuACUG4zCaE5ZynCv12HwtwI0AtcZxdfPhNDawGuXM2zaNgmxuSfcBg37devrAkXVVue4vzafm5CMrjcDVfgGzmGmURV29qqG/qCX71PZwjx0rwgaWtonn4O3TNv3yd0SXNA7IAj+wySaLdRdqloPSC0e1n31ldQqjYvPj5QIkcArORgofuuPTDvFZriAUksHcimEM6Kek4M4tx6W2MS1Ren4L1Ep6IGrg7Vy0RvIEmm4bAziO3M1ZSOsrHTi56V3XxFLSl4PHsqLlMdhEsQ1TmpNfTmHeETD49qWAXs+THYxm078wfqaJtJvguIsBg1+i815md5vciJZcJy6F2rdmVNsN9iQMXCmXRuXLp9FXM6FJR9aMgNDJfFdbpiV5eIMIIj3VV6HHIwYr2Bqt2IyNq4i6qYMqAHdKpEOAGVdq7H48iCgEcGWCuXBKDvGmXkfQ80xml5y5zC1Gdn/0qZE+tMSKiDnac/ZUt97FwQdEcY76sdJ0fWHsHO3hnuKqTDs5b26rNJLrKG+6u6dvCm173PrwJfT+XjemgUgM8Sc5IZwWuSsjUjYGY/1her9ptOuhf+w1aIitA2Eb5D1qKVBR+abC0IlMfYW0oh1Obn4ioS3ODYPq4Qtc697N1m+SF7RY83+CUejrBvZVJoKDHC4KriOPsJNFEv2sbnYhWDf+LQ59n7KndRNVqJ+YW+OZiEEBodnCLHypVOcwLs/n+ozYSIp3D6ad4/cNp+C+0jOJDdH7rIii47AO3l0HuEljrePNgayUcYABNevXlKAOOGzhwWcPxl6SHBSEwGQrh5PRLpD/NMXUbmolTro6aOcaxZgs3j1C9Jz/0egdfjWPyUZJ2OCaRRjPppfeN6rXp4AZNviNbZaoOgq7+rZSb7RZwtQfwxR2r4/tEB4S8bGwSLUsAgG6kro3GxZDdviPlBAtL2vvYuLC0OqZpc6AeErXgr9E5wT8vMDTcW7WLQ29N/k6gWSopApwoSoTvhGmHa8vSK4BuRmX7oozChV2+NF7iWHEgO05S5a5fWE0S1kb9Sx+fW4V25rTPwhYC+FTIpxH0OXXJHq8qhIoSJ8Iaq5eDsY5o0DhyqvboMsUh6e4tef1qutEjyS33/VSzAyqTRIYijhkUAEmVp9HNXML+AA/QbPpZnn45enexwFyJO4z2+8Sq+UPoESRCJH9dLBG6b3CrX5XK1Yi+tpMqI+AtXSS2JpqJ7qZu/sI8xBzGgYvbjpKb5XbLyjTpJ
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 19:05:46 UTC"
+record: -1

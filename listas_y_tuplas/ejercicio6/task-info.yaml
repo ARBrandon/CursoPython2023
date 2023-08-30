@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: m18M2v7azk1cibgDJIfGPHaDQZoSgNZmy5dpGB9P6LfcNkjrXPDH52etF6u9s8ZW5cFRLyLVO/2KeOp2baM9SvWKNRt3YIUKAhGh7NGiY9xHeD76Kk9S4gOJ1/2Ze0Py6y2v8XCyM6EiAB2bgwC4RNrNzkSUAR9EL5s9gyvG61pMR+GlYLqrBBhcR7bbJtfdn9QxSi66yne+PmypZRRs/Ezlmfe0bfQozFrpTxsnb/XYDrZOpyqaj/T49pc48JVF27PGI6/FSY9TCm0Rcugb+QQBR6ljp5UQL96dQp9sA9KPNVNrk/8MP8Q+hVdbYiZ+v2d4RbR6VmoEOBnYWbDaBQ==
+  encrypted_text: PXNohf98r8baGAWz0WMPaw==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UegGLtumu25OpYTbir/oykT486mqRxn2apZcrVMkOxq2N24yIOvHxiwvKOoBo7ug9uPstOUyJdpM3yVkgLTwRLmOfEva2FpZwmnnEyYPdpkAbpwM+f00ofxOwsAok2tSGk9Td0L2nI1sZAaVRR6eC44eBz2RZJNkb5XrYyeFoIdeHByN6YfS1VvFPgEa91FafGIWgD2lheA0MsctGBXtTtlxBn4nideplAg+4pabOTgOPo9eIckHC96MZsoWUZwyi95PHLK+U/PEy8sopnKJc4hBFiaJhvAcQLeyTFOOYThUZCdHoX3ShqQvVmKvQx+eoKccePY/Lh6U0MiN4Dg7q9wfOpLfjLhwR9BPDj+Vyolv/FDVT2x4galgtGYP2o0iR4flQbuKikMBTWvkykk+UEKNkDml29qW5mGWdbMv3h/mYwm9QvZQX7kjhNZoYPAIDHklU8fM+B4lPICgP6DVTp9BhOVESHKwsPZS0RuulT9y4xYzXj6/PlDhmw8zIx4uDYsgACLI94jcq24bjDcTaUp0mDQeBJ6BKwjbzkfrm6JA1w8VDSN25LPy0/WDbJl1Unyt7WVvX2bD7IHYI6F1da5OBr++mykp/XQC4m8effR6TTEDtCDBATu/j43JZfKLCC+arMIuWbBUocVLDdVQDuIzlZ8rc/J7XIU4seIw/d5e0wF092nljyUy3CX7O+7b1RxSH3eUxxIcEm5ln8yGaLHuvDDe1Wq+aa24GjFIV1EFi7mvNbtTYYUfacwv2WquT8OIsBX6LhQZVDla884OBYNvdnAFX4Xn6+vHy7C7QhrlVZsZiZUJj8QeHXzabg6nJsEI0Da8F5N2BKLY01EcUSSvWFuA7ltndyE4lbgk3lASaEEl8+4+JGouA3f4ywOJ4XR64pjUOsL9iQBdHV/zxnMQJLChCKDZ8D3KoqHs8quXS8mpAVKRaAaHqRraA0b4DZq7KmKniTnxObmTM9odcGeimAxkr1mQWU2LuOFpgDG3bXkmbim9HGbwEtn7NVdRO0HJ1URjH54rf/gkHlg9xzhA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 00:24:00 UTC"
+record: -1

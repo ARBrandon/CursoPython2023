@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 84
+    length: 21
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 84
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: OyyMbtBv6puSqu6bH/WCiDGaeNBcpmijGQqXXc6pfh4=
+  encrypted_text: srYfUd+VJtY6gUyFmfbAZWMKRsqlJiiyrB+u4DPNaSPhMiY9ed/waWoYZHz+zlFSecC5W6+wlrLNxMNeLPzqzZW3RMZrGiKh+tNaI875u8rALitarQ7mwNUAlI2JkoBWTNAG0clSzvXRVzXgVTyjk4IHX0YhuNKWpvL/3+l3j/FmirM/E4R0FHCvLrWFnLAN
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUis/mx1JC1NFMDw5bzsE3U2twckfViHIRcfzfwAK2UekbyjFgbDDXYdBjoP+rx6TEakoqaJWtxRZYtMzNUQdr/AIG3fSedhm+VW+3LSzFjh4NWyp0UHgV6mic7M7F5R/xlx59u3IcuhXoLjSZmuCAWqLw9VJZ2+fD0G1wuG+6NCu7REniqScWHbPW/zjP0SlRcZk2KCsNVOcNMEu13V1DdlQDvwBDyPpU0YdJpKkNG1vpJznRP8TfRYqq40VRTyTH41WwtPdXoBPWuF8rxs6lG0pWmBh/ZvCUaxuBZELHyczYoOG+Qtdgz96jSi9D072SOuy87GD7HN+NxxaZX28nM1EdahAQSdsPE+4/K0nu0hO+qecrwnTiGUGdiCfD8L2yYS013o1zwmXXHIdrqnIFS+C3wnqgKkB88Oofa3yFON29zVtItoVToCYcRRabAwSsliaL6UM/DNl7VylOEsEZbtRDHAExi+LFWd8sPFylEe3zXToeNRNmvRRT7Q/eP0OAH4LnEFI+lMT5U0LldqMkO9GxO46ed65gy8wyBDVcJ5WWh1DeDvv/RgzqvPDPiJc6HCQPDefGbu1S0motkPDz5Nay/DGohdisS7IVnI1GN1/DECwEVTKQrV1hr6gy1bMHYjxchKtNEf+UtMZTDVBPb8U5jLdWJREdDkVNyiipOzoboxolaC1HpahcBY4JnlfGSJ7NMSHYn5mz7/2vUG2pKiBcs4/Gypns4ddQd9Gc9TptX9wuPn1kp0voHY9TpZEVqGiiZCCz16fkwVh5YWaSQtlZ1i6OZFPX/LeMA1n2i/ZDdctFUTzbHeYGRHDtKoO81tEvuYoswXVDMR93//0ABny64UPqfTto4vKgAIOr1SUhnS/8N7OXKX2Kr9RzVxoORMCmgHNywWBrEPaXyYF2pAklFZna9XstBE3FLG2mnleKLUJaitZOb2ycyE/BmhTiyJWADMvhzNqOT3CTWXmJhq1PnaAvkZLLtCz4uJYpnL507JGP11NCMDaGAJPWcnKVqCpJBSda345CgkP/L7lS0jglRBvE5giVzziiRdmsVCVzjSsPrq/KlwP2nP39Y2a2h0aNLB9JLgWZIcKDzJF0eoJrqKfa+mE3ZH07/0Yn89fMwsDNl4Lu7U9kwzJeT6+XlQnjTiLruoXzYab63sFkobGvN6juqMOvOmdNdG0EnY
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Aug 2023 18:37:05 UTC"
+record: -1
