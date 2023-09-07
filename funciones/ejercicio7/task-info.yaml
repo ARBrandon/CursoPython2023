@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 221
-    length: 0
+    length: 8
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 221
     initialized_from_dependency: false
     selected: true
-    status: Failed
+    status: Solved
     encrypted_possible_answer: C5My6/jmoxotVEqU9W7P8JjyzLQM0PDJHBnXC0KgtMo6dYBEkO4wAri/DkQzqn1o9XLL62SfegI7sEClTpyey7+YWVyFzt8blG2AJz3e3sE=
   encrypted_text: 9Gb358TzQAbqnu016AVlDJbp8VA9rW4XDbkxGg59yMZPuMNRD3xqFrC9wcLF/Qwzaqqx6BoMXyt1veRNy+SXhMzz70g0j3Wh5uFknTOhuCrVfYLYDTKldwZ22XkSwAjSSeGzTDsASo6UdZi01cbK112bHF4a6utOrrEfkL6J9uWx2HLISatXQXn5f4dW9vxC/OXMNbjOmmnQuUk7iBsuibMbUsdc+ps1sCfT571G3vHMz/FsZtPFx2RbGLfWhAHl8hK+c2Uj52+7Awv/KJF8xp76dKOtpiTgE0kwaurN8aNVkdLTeOPRY9wC1sLVFhysZmjJHUVULm9xC+HW/j4x3l95LJwJzVQWwus6S6Ua2i7Lf+U9zoI8eRMgctxQ4p56wul0+hC2uZ9ST5OYGS/DCDmwrfin1mZxVRtYMrXA8i13s4aNohkDFYlkK39xNRE3uDk7djic6PU7fj8hKHPtsQbum6Z/iyc409hP5YZRG34BhONwu0T8KVmL11PEgA35jz/2K4BiUgXhxxiXMJl1QN0zCWcupIJABhWmhVFEyKXdshqwnAIl8AMXC5haRdY4B4VZN1anja2rriaJtzROplUqx7lHM+oUr7i7kI0hXv3OnWWSwSFMj0JM12dAghaV
   learner_created: false
@@ -27,16 +27,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Failed
+status: Solved
 feedback:
-  message: "None != [5.289999999999999, 32.49, 46.23999999999[47 chars]9999]"
-  time: "Wed, 30 Aug 2023 20:26:48 UTC"
-  expected: None
-  actual: |-
-    [5.289999999999999,
-     32.49,
-     46.239999999999995,
-     94.08999999999999,
-     146.41,
-     243.35999999999999]
+  message: Congratulations!
+  time: "Thu, 07 Sep 2023 18:28:40 UTC"
 record: -1
