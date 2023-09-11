@@ -1,3 +1,4 @@
+import math
 def mcd(n, m):
     """Función que calcula el máximo común divisor de dos números.
     Parámetros:
@@ -6,7 +7,7 @@ def mcd(n, m):
     Devuelve:
         El máximo común divisor de n y m.
     """
-# TODO
+    return math.gcd(n,m)
 
 
 def mcm(n, m):
@@ -17,8 +18,7 @@ def mcm(n, m):
     Devuelve:
         El mínimo común múltiplo de n y m.
     """
-# TODO
-
+    return math.lcm(n,m)
 
 print(mcd(24, 36))
 # resultado esperado: 12

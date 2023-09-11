@@ -22,7 +22,11 @@ def to_decimal(n):
 
     Nota con la función reverse() de python puede invertir la cadena
     """
-# TODO
+    a = 0
+    n=n[::-1]
+    for i in range(len(n)):
+        a += int(n[i])*(2**i)
+
 
 
 def to_binary(n):
@@ -54,7 +58,15 @@ def to_binary(n):
 
     Nota con la función reverse() de python puede invertir la cadena
     """
-# TODO
+    c=1
+    tmp = n
+    b=""
+    while c != 0:
+        pass
+        b+=str(tmp%2)
+        c=tmp//2
+        tmp=c
+    return b[::-1]
 
 
 print(to_decimal('10110'))
