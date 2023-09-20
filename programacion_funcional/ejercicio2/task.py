@@ -7,11 +7,15 @@ def aplica_funcion_lista(funcion, lista):
     Devuelve:
         Una lista con el resultado de aplicar la función a los valores de la lista.
     '''
-# TODO
+    l = []
+    for i in lista:
+        l.append(funcion(i))
+    return l
+
 
 
 def cuadrado(n):
-# TODO
+    return n*n
 
 
 print(aplica_funcion_lista(cuadrado, [1, 2, 3, 4]))

@@ -6,7 +6,9 @@ def length_words(sentence):
     Devuelve:
         Un diccionario con pares palabra:longitud donde palabra son las palabras que contiene la frase sentence.
     '''
-# TODO
+    p = sentence.split()
+    lenght=map(len, p)
+    return dict(zip(p, lenght))
 
 
 print(length_words('Welcome to Python'))

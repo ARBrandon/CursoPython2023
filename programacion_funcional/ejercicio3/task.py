@@ -7,11 +7,15 @@ def filtra_lista(funcion, lista):
     Devuelve:
         Una lista con los elementos de la lista que devuelven true al aplicarles la función booleana.
     '''
-# TODO
+    l =[]
+    for i in lista:
+        if funcion(i):
+            l.append(i)
+    return l
 
 
 def par(n):
-# TODO
+    return n % 2 ==0
 
 
 print(filtra_lista(par, [1, 2, 3, 4, 5, 6]))

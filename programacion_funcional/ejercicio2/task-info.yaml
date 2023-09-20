@@ -4,24 +4,24 @@ files:
   visible: true
   placeholders:
   - offset: 354
-    length: 6
+    length: 73
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 354
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: laerqeimXg9jEfCdIiSLmns4O7F0NNK5cq2XBDI0d2PdAByfkafIqp4C+E2cVcYOu7M2W066LPl424d92D7inNkQVU8gUm9T0/IaX10IqCs=
-  - offset: 380
-    length: 6
+  - offset: 447
+    length: 14
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 380
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: OY3Nxv269dCWkOMhvqHbYJMmh3/uFUdz1yYLSRnTOTo=
   encrypted_text: 4t2JMBWK5VYr+Gk6MvStboPwi9MbV5Dq4dePkZntWDJmYafCXTbfld758IW2KmeC2zom0RY6QrJiDhuHf07QwGoxo/011NZnLIxQwdrVi1Vn/uKosgNMCazo5sHseEw+yW6TXTMUpr5IRTUVGlCwebYljJIeGun0m6Z1QRpE2kq4QnjGOO3jkZPoGffXxN5N9FDvrRggKI/jeh03ooFsn4b5hqBEy1FOfwPR/11G4MUM+E0kbt33OxeB2YlMmVEU93NLSHsQsboWHQfEEgyQjd3Yh1gNQEzqThzSb0P9mYSZP+oTuBfQOQJbUN2sdEkQotZHLGp0aJ8jU03/U1aG6obXpsGb55FEsojD1Sz+Xg2/McbwpOi0bfrhlS1eHx9m9lugEsxN4LMlkBpGTOzv3PY7LsE/ebrLN3r4tJoVh1dxipUWnw/r+8cDrKkYXQWTtrki4+2JVq7qruCshkzVcFRT7AiUiFNs6n+DfVxOqPZeX4psxitnbLuRJt2DrSey4NEkvfB8GhxrmGuTrYAWIkQrWgt+K4qz1IG/w2fImrS2NM9me78WDLe3ga6q6jtqxxY+c7UW9Fk+PpyerQdfh/y10+2pThFDGCsSiz4LWOQX/zZ3E3kG+d38/gbcinoWnWZ0/O1B2XZAv97f1AKsm2M+qK842VTGQJckSatMMV6APg8FA8T8tWPuvO9n7ePKfun89TzPHPFUl7wtzNg0uxGxJO20R0pm7Ha+8/m+g5vK7HysSqpBGkV949tveHxbuW6jLD/H7siaWUnMzthDNw==
   learner_created: false
@@ -37,5 +37,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 20 Sep 2023 19:48:23 UTC"
 record: -1
