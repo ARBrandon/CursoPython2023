@@ -15,7 +15,7 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 309
+  - offset: 38
     length: 37
     placeholder_text: '# TODO'
     initial_state:
@@ -25,7 +25,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 6q4qb/d+DJkUX6ajr4H1DPwgYcwysBMeH3qge0nL4I/1rGBQN+tSa8FNLHTc5UHr
-  - offset: 645
+  - offset: 374
     length: 41
     placeholder_text: '# TODO'
     initial_state:
@@ -35,7 +35,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 6q4qb/d+DJkUX6ajr4H1DApx3K/10YNG7tieCMFb65YJa07/oi3/6atbcm8ujfpI
-  - offset: 1182
+  - offset: 911
     length: 119
     placeholder_text: '# TODO'
     initial_state:
@@ -50,5 +50,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Wed, 20 Sep 2023 19:47:00 UTC"
+  time: "Thu, 21 Sep 2023 18:25:06 UTC"
 record: -1

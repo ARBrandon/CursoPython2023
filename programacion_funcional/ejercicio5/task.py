@@ -12,7 +12,16 @@ def grade(score):
         Si es calificación es menor a 10 devuelve ´NE´ de nota superior
         Cualquier otra calificación devuelve ´NM´ de nota maxima
     '''
-# TODO
+    if score < 5:
+        return 'NR'
+    elif score < 7:
+        return 'NA'
+    elif score < 9:
+        return 'ND'
+    elif score < 10:
+        return 'NE'
+    else:
+        return 'NM'
 
 
 def apply_grade(scores):
@@ -23,7 +32,7 @@ def apply_grade(scores):
     Devuelve
         La lista de calificaciones correspondiente a las notas de scores.
     '''
-# TODO
+    return list(map(grade, scores))
 
 
 print(apply_grade([6.5, 5, 3.4, 8.2, 2.1, 9.7, 10]))

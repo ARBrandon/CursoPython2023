@@ -23,4 +23,4 @@ print(aplica_funcion_lista(cuadrado, [1, 2, 3, 4]))
 # resultado esperado [1, 4, 9, 16]
 
 print(aplica_funcion_lista(cuadrado, [1, 2, 3, 4, 5]))
-# resultado esperado [1, 4, 9, 16, 25]
+

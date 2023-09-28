@@ -1,24 +1,17 @@
 def apply_discount(price, discount):
-    '''
-    Función que aplica un descuento a una cantidad.
-    Parámetros:
-        price: Es un valor real con el precio al que aplicar el descuento.
-        discount: Es el porcentaje a descontar.
-    Devuelve:
-        El precio final tras aplicar el descuento.
-    '''
+
     return price-(price*discount/100)
 
 
 def apply_IVA(price, percentage):
-    '''
+    """
     Función que aplica un IVA a una cantidad.
     Parámetros:
         price: Es un valor real con el precio al que aplicar el IVA.
         percentage: Es el porcentaje del IVA a aplicar.
     Devuelve:
         El precio final tras aplicar el IVA.
-    '''
+    """
     return price+(price*(percentage/100))
 
 
