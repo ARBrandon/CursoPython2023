@@ -4,64 +4,64 @@ files:
   visible: true
   placeholders:
   - offset: 16
-    length: 6
+    length: 16
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 16
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
-  - offset: 41
-    length: 6
+  - offset: 52
+    length: 16
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 41
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
-  - offset: 75
-    length: 6
+  - offset: 97
+    length: 16
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 75
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
-  - offset: 103
-    length: 6
+  - offset: 136
+    length: 16
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 103
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
-  - offset: 131
-    length: 6
+  - offset: 175
+    length: 150
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 131
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
-  - offset: 151
-    length: 6
+  - offset: 339
+    length: 565
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 151
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
   encrypted_text: TS6c4nLBV6WwbBnPJCU9uKfAJQS+nDa/cGbf0io9XfGzvxf2F/QkvlHQlLXQ0pL+FLQnpf4EpjAw9iWXc0/GP8elpAfF0ewBuXCB3T2BJW35qkwqEKFqTe0Mw2cMAsj2m2hZ6tX/fCVr2KMZrsI6FUhhtzjUhe4LZSB2WPy6aNQKVItK0EL1+gSAMdaJ8E7llmp27aTif8UFIhI9JVpVBATZaBBeF1F8lg89XSDaPZ5nrEGgURIuUcNhlz9FYyT4hyt2aRlUvEI7opGcy4Gf/w==
   learner_created: false
@@ -77,5 +77,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 02 Oct 2023 16:35:44 UTC"
 record: -1
