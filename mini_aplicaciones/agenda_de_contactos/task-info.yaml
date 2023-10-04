@@ -77,7 +77,7 @@ files:
       length: 6
       offset: 48
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: qy0XDvGDLVhkaM0vtufD25kOx99tERAV7piKBZ0qLjV5WeCi8KudfNNnGVD6R9u0m77nofKiFKZ+QLohHEJh63d5Z5gZ2LiRAywZa7LtaMSei/wOZNP7Ij95SMXCZYH1
   encrypted_text: CxyzPfynU7vXTTrr1So0B9+CINFKwrZsbTp4xUPsL/7UjCEcSQkSCjf0toULR8mHuGRR1HvLrjalReyyn0NDIg==

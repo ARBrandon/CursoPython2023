@@ -1,5 +1,9 @@
 def mostrar_menu():
-# TODO
+    print("elija una opcion:\n"
+                   "1.agregar una nueva tarea\n"
+                   "2.eliminar una tarea\n"
+                   "3.ver las tareas\n"
+                   "4.salir\n")
 
 
 def agregar_tarea(tareas, tarea):
@@ -7,11 +11,11 @@ def agregar_tarea(tareas, tarea):
 
 
 def eliminar_tarea(tareas, indice):
-# TODO
+
 
 
 def ver_tareas(tareas):
-# TODO
+    return tareas
 
 
 def main():
@@ -19,7 +23,7 @@ def main():
         Use la lista vacia tareas = [] para agregar, eliminar o ver las tareas
     """
     tareas = []
-# TODO
+
 
 
 if __name__ == "__main__":

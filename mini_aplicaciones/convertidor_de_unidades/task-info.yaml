@@ -4,54 +4,54 @@ files:
   visible: true
   placeholders:
   - offset: 35
-    length: 6
+    length: 27
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 35
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: MFVjbWxxGQUajMaLaUAF6g==
-  - offset: 81
-    length: 6
+  - offset: 102
+    length: 30
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 81
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: MFVjbWxxGQUajMaLaUAF6g==
-  - offset: 120
-    length: 6
+  - offset: 165
+    length: 26
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 120
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: MFVjbWxxGQUajMaLaUAF6g==
-  - offset: 149
-    length: 6
+  - offset: 214
+    length: 150
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 149
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
-  - offset: 169
-    length: 6
+  - offset: 378
+    length: 637
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 169
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: aWUOyL7NGVvwGTPHz9XJIw==
   encrypted_text: 1ZME7WKbz7mrVr5mOZMO15IX8xyk9LhTo8O6k2JCKzZpuggUEpmPJ6f+1gkyU/cViTGEFCUiA9Eb34t3fKT4ALrFw6/SfY6EdIrMXEQ7uT2PPr6seQa8UQH35GOzfGbhCJYPaaM5qO0CKo0dAj+Zr25WaC9IkXTbyGr/ZkuysY612Jht2GSqXq8c5DPuIXiYl46Bw58YnKmgUhfqngHlU+p6UY8ONv6YjvnGO0Q5DqJ4ZbsP7Rc+JRgF+vzeaXm5wNDoeK45kQze2K43I23yeg0b/BmFytjqBWhyxWs+7EA=
   learner_created: false
@@ -67,5 +67,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 04 Oct 2023 18:41:49 UTC"
 record: -1
